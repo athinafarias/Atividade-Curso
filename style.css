@@ -58,7 +58,7 @@ button {
     border: none;
 }
 
-button:hover {
+.cadastrar:hover {
     background-color: #be5c71;
 }
 
